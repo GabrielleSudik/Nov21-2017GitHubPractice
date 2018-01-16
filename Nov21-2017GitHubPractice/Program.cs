@@ -11,6 +11,7 @@ namespace Nov21_2017GitHubPractice
         static void Main(string[] args)
         {
             Console.WriteLine("Learnin' git branches.");
+            Console.WriteLine("Now go practice a few times.");
         }
     }
 }
